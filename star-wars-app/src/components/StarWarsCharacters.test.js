@@ -57,3 +57,13 @@ test('Next button renders new characters', async () => {
 // Did characterList update after clicking next button?
 // Did characterList update after clicking previous button?
 // Did characterList stay the same after clicking previous with initial data?
+
+// Why automated testing is important:
+// Manual testing takes a lot of time so automated testing will save time and money. Automated testing can be run over and over again during the development process to ensure everything is working as it should and catches bugs much easier than manually looking for them
+// Website: https://www.netflix.com/
+// Things to test:
+// 1: Example components render
+// 2: Sign in button takes you to login page
+// 3: Background image is rendered
+// 4: Can't click "try 30 days free" button without providing an email
+// 5: Clicking any FAQ will close a previously clicked FAQ 
